@@ -7,7 +7,7 @@
 login
 </div>
 <div>
-debug
+update debug
 </div>
 </body>
 </html>
